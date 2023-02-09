@@ -65,7 +65,7 @@ a {
 }
 
 .navbar-brand {
-	.uil {
+	.uil, .fa-brand {
 		font-size: 40px;
 	}
 }
@@ -343,7 +343,7 @@ b, strong {
 		background: #0d0c15;
 		color: $text-white;
 	}
-	.feature-card .uil,
+	.feature-card .uil, .feature-card .fa-brand,
 	.navbar-light .navbar-brand,
 	h1, h2, h3, h4, h5, h6,
 	.color-mode {

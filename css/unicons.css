@@ -481,6 +481,7 @@
 .uil-eye-slash:before { content: '\e9a7'; } /* '' */
 .uil-eye:before { content: '\e9a8'; } /* '' */
 .uil-facebook:before { content: '\e9a9'; } /* '' */
+.fa-github:before{ content:'\e9a9';}
 .uil-fahrenheit:before { content: '\e9aa'; } /* '' */
 .uil-fast-mail-alt:before { content: '\e9ab'; } /* '' */
 .uil-fast-mail:before { content: '\e9ac'; } /* '' */
