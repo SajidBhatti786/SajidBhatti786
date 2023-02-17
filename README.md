@@ -8,20 +8,21 @@
 ### <div align="center">Inquisitive and motivated Computer Science Student with a passion in Web Development and Software Application Development</div>  
   
 
-- 🔭 I’m currently working on frontend web development, Software development  
+- 🔭 I’m currently working on frontend web development, Software development.
   
 
-- 🌱 I’m currently learning JS backend frameworks  
+- 🌱 I’m currently learning JS backend frameworks. 
   
 
-- 👯 I’m looking to collaborate on backend web development  
+- 👯 I’m looking to collaborate on backend web development.  
   
 
 - 👨‍💻 All of my projects are available at https://github.com/SajidBhatti786  
   
 
-💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwind and React. Along with You may ask me about different programming languages C, C++, Java, JavaScript and Python.  
-  
+💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Tailwind and React. Along with You may ask me about different programming languages C, C++, Java, JavaScript and Python.  <br/>
+💬 You can also ask me about WordPress and Shopify. I design bloging and eccommerece websites with wordPress. I also list and add products in sotre on Shopify! <br/>
+💬 You can also ask me about bash scripting. I have used and worked on Linux OS more than a year. I can help you troubleshoot and customize the OS. <br/>
 
 ⚡ Fun fact I think I am quick and expert in algorithm design and analysis.  
 <br/>
