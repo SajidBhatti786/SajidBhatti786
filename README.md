@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h3>🔭BS Computer Science</h3>
 🔭 I’m currently working on Web development <br>👯 I’m looking to collaborate on Frontend projects<br>🤝 I’m looking for help with backend projects<br>🌱 I’m currently learning Web backend frameworks<br>💬 Ask me about Frontend webdevelopment, Shopify and Wordpress<br>⚡ Fun fact I am quick at problem solving
 
 
