@@ -2,6 +2,10 @@
 <h3>🔭BS Computer Science</h3>
 🔭 I’m currently working on Web development <br>👯 I’m looking to collaborate on Frontend projects<br>🤝 I’m looking for help with backend projects<br>🌱 I’m currently learning Web backend frameworks<br>💬 Ask me about Frontend webdevelopment, Shopify and Wordpress<br>⚡ Fun fact I am quick at problem solving
 
+# Find my Services on Fiverr
+[Visit my Fiverr profile](https://www.fiverr.com/s2/08896858db) (Fiverr)
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100026991042689&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/sajidbhatti767?igshid=ZmZhODViOGI=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajid-bhatti-b2436b24a) 
