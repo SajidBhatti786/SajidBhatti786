@@ -2,9 +2,9 @@
 <h3>🔭BS Computer Science</h3>
 <h3>Full Stack Developer @H2O INC.</h3>
 🔭 I’m currently working on <b>MERN Stack Web development</b> <br>
-👯 I’m looking to collaborate on  <b>Enterpise Appplication Projects</b><br>
+👯 I’m looking to collaborate on  <b>Enterprise Application Projects</b><br>
 🌱 I’m currently diving into  <b>Integrating AI models and Using effective third party services</b><br>
-💬 Ask me about  <b>MERN STack Web Development, Shopify and Wordpress</b><br>
+💬 Ask me about  <b>MERN Stack Web Development, Shopify and Wordpress</b><br>
 ⚡ Fun fact I am quick at <b>problem solving</b>
 
 # Find my Services on Fiverr
